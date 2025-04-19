@@ -1223,3 +1223,5 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
+.tawk-widget, .tawk-minimized, .tawk-chat-widget { display: none !important; }
